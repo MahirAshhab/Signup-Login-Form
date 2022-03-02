@@ -37,7 +37,8 @@ function App() {
         <div className="dark-light-toggle-container">
           <button className="dark-light-toggle" onClick={() => themeToggler()}>{icon}</button>
         </div>
-        <Signup></Signup>
+        {/* <Signup></Signup> */}
+        <Login></Login>
       </StyledApp>
     </ThemeProvider>
   );
