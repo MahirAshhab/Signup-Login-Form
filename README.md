@@ -4,7 +4,7 @@
 <h3 align="left">Demo:</h3>
 <p align="left">
   Github Pages: 
-    <a href="signup-login-form-77.netlify.app" target="blank">
+    <a href="https://mahirashhab.github.io/Signup-Login-Form/#/" target="blank">
         Signup/Login Form
     </a>
 </p>
