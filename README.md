@@ -4,7 +4,7 @@
 <h3 align="left">Demo:</h3>
 <p align="left">
   Github Pages: 
-    <a href="weather-app-77.netlify.app" target="blank">
+    <a href="signup-login-form-77.netlify.app" target="blank">
         Signup/Login Form
     </a>
 </p>
@@ -18,5 +18,8 @@
 
 <h3 align="left">Screenshot:</h3>
 <p align="left">
-    <img align="center" src="" alt="Screenshot"/>
+    <img align="center" src="https://i.ibb.co/VtCBK7R/signup-form-light.png" alt="Screenshot" width = "49%"/>
+    <img align="center" src="https://i.ibb.co/Yjy30Jh/signup-form-dark.png" alt="Screenshot" width = "49%"/>
+    <img align="center" src="https://i.ibb.co/qnQx8k0/login-form-dark.png" alt="Screenshot" width = "49%"/>
+    <img align="center" src="https://i.ibb.co/QDwWJs6/login-form-light.png" alt="Screenshot" width = "49%"/>
 </p>
